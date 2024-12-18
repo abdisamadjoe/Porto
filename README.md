@@ -1,3 +1,5 @@
+<div style="background-color: #0d0d0d; color: white; padding: 20px;">
+
 # Hi, I'm Abdisamad Yusuf!  
 
 <div align="center">
@@ -81,4 +83,6 @@ Feel free to reach out for project collaborations, mentorship, or to exchange id
 
 <div align="center">
   <img src="https://via.placeholder.com/1500x100/0d0d0d/00ff9c?text=Keep+Learning+%7C+Keep+Hacking+%7C+Stay+Secure" alt="Footer" style="border-radius: 10px;">
+</div>
+
 </div>
